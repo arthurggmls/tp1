@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1746716735 source:c:\users\arthu\desktop\nova pasta (5)\teste\dominios.cpp
+	"dominios.hpp"
+	<cctype>
+
+1746716735 c:\users\arthu\desktop\nova pasta (5)\teste\dominios.hpp
+	<string>
+
+1746716735 source:c:\users\arthu\desktop\nova pasta (5)\teste\entidades.cpp
+	"entidades.hpp"
+	<iostream>
+	<stdexcept>
+
+1746716735 c:\users\arthu\desktop\nova pasta (5)\teste\entidades.hpp
+	"dominios.hpp"
+	<string>
+
+1746715982 source:c:\users\arthu\desktop\nova pasta (5)\teste\testes.cpp
+
+1745519075 c:\users\arthu\desktop\nova pasta (5)\teste\testes.hpp
+	"dominios.hpp"
+	<iostream>
+
+1745519338 source:c:\users\arthu\desktop\nova pasta (5)\teste\main_testes.cpp
+
+1746715982 source:c:\users\arthu\desktop\nova pasta (5)\teste\main.cpp
+	<iostream>
+	"entidades.hpp"
+
